@@ -13,7 +13,7 @@ import org.junit.Assert;
  *
  * @author mary_
  */
-public class TestsCountingDuplicates {
+public class CountingDuplicatesTest {
     
     
     @Test

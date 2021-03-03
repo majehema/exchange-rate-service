@@ -13,7 +13,7 @@ import org.junit.Assert;
  *
  * @author mary_
  */
-public class TestsSumByFactors {
+public class SumByFactorsTest {
     
     
     @Test

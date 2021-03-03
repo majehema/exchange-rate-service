@@ -14,13 +14,11 @@ import org.junit.Assert;
  *
  * @author mary_
  */
-public class TestsSumFct {
+public class CastleTest {
     
-    
-    @Test
-    public void thirty() {
-        Assert.assertEquals(BigInteger.valueOf(14098308), SumFct.perimeter(BigInteger.valueOf(30)));
-    }
-
+	@Test
+	public void test1() {
+		Assert.assertEquals(BigInteger.valueOf(80), SumFct.perimeter(BigInteger.valueOf(5)));
+	}
  
 }
